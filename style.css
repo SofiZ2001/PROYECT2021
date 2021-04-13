@@ -1,0 +1,26 @@
+*{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0
+}
+/*HEADER*/
+header{
+    background-color: rgb(41, 255, 69);
+    display: flex;
+    justify-content: space-around;
+}
+.botonera{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    
+}
+.titleHeader{
+    border-color: blue;
+    
+}
+li{
+    list-style: none;
+    text-align: center;
+    width: 30%;
+}
